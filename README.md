@@ -1,9 +1,10 @@
-Develop a simple text-based guessing game. 
+Developed a simple text-based guessing game. 
 The objective is to guess a number between 1 and 10.
 The game will give feedback on whether the guess is too high, too low, or correct.
 
 Step 1: Choose a Game Type
 We'll create a guessing game.
+
 
 Step 2: Define the Game Rules and Logic
 The computer randomly selects a number between 1 and 10.
